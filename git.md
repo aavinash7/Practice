@@ -3,4 +3,5 @@
 ### What is git?
 
 Check version
-`git --version`
+
+    `git --version`
