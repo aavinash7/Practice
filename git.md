@@ -2,6 +2,6 @@
 
 ### What is git?
 
-### Check version
+Check version
 
       git --version
