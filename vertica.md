@@ -41,5 +41,5 @@
      -  Enterprise Mode has more platform options than Eon Mode. 
      -  You can use Enterprise Mode in any environment that Vertica supports: locally installed or co-located hardware, virtual machines, or in one of the major vendor's clouds (Amazon AWS, Google Cloud Platform, or Microsoft Azure).
 
-    <img src="https://www.vertica.com/docs/9.2.x/HTML/Content/Resources/Images/Eon/enterprise-mode-basic_diagram.png" width=400px height=400px>
+      <img src="https://www.vertica.com/docs/9.2.x/HTML/Content/Resources/Images/Eon/enterprise-mode-basic_diagram.png" width=500px height=500px>
   
