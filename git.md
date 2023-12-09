@@ -4,4 +4,4 @@
 
 ### Check version
 
-    `git --version`
+      git --version
