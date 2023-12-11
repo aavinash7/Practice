@@ -42,12 +42,11 @@
   - Eon Mode:
     -  Eon Mode (introduced in Vertica version 9.1) optimizes your database for scalability.
     -  It lets you dynamically adjust the number of nodes in your database based on your workload.
-    -  This flexibility comes from separating computing resources from data storage.
     -  An Eon Mode database's data is stored in a central communal repository.
     -  As the nodes do not store data, it is much easier for you to add or remove them.
     -  As all of the data is stored centrally, the nodes in the Vertica cluster do not have to spend time exchanging data to rebalance their storage when nodes join or leave the database. 
     -  Adding and removing nodes does not disturb your running queries. You can even pause the entire database and later revive it to resume running queries.
-    - Currently, Eon Mode is only available on Amazon Web Services.
+    -  Currently, Eon Mode is only available on Amazon Web Services.
       
       <img src="https://www.vertica.com/docs/9.2.x/HTML/Content/Resources/Images/Eon/eon-mode-basic_diagram.png" width=500px height=500px>
   
